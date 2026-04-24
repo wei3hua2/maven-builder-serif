@@ -1,12 +1,16 @@
 ---
-title: Services
+title: Capabilities
 layout: services
-description: Services
+description: Capabilities
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Capabilities that deliver outcomes
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Maven Builder provides integrated construction capabilities across the full project lifecycle.
+
+From initial planning to final delivery, we ensure every stage is managed with structure, visibility, and discipline.
+
+Our capabilities are designed to reduce risk, improve coordination, and deliver consistent results.
