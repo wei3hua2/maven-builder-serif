@@ -13,4 +13,4 @@ Maven Builder provides integrated construction capabilities across the full proj
 
 From initial planning to final delivery, we ensure every stage is managed with structure, visibility, and discipline.
 
-Our capabilities are designed to reduce risk, improve coordination, and deliver consistent results.
+We guide our clients from concept to completion with precision and integrity.

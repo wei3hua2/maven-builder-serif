@@ -5,7 +5,12 @@ description: About
 bodyClass: page-about
 ---
 
-Maven Builder is a construction company focused on delivering reliable, high-quality outcomes across residential and commercial projects.
+Maven Builder is a new construction company in Singapore focused on delivering reliable, high-quality projects.
+
+Our Conviction:
+- 3D Arch logo & MAVEN symbolize our strength, craftmanship & precision as a builder
+- Arch & a middle avenue for balanced approach & solution
+
 
 We bring together decades of industry experience with a modern approach to execution — combining structured workflows, clear communication, and technology-enabled processes.
 

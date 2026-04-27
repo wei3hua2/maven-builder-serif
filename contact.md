@@ -23,15 +23,3 @@ dorischong@mavenbuilder.sg
 Singapore 533715  
 
 ---
-
-### Office Hours
-
-| Day       | Hours            |
-|-----------|------------------|
-| Monday    | 8:30am – 5:30pm |
-| Tuesday   | 8:30am – 5:30pm |
-| Wednesday | 8:30am – 5:30pm |
-| Thursday  | 8:30am – 5:30pm |
-| Friday    | 8:30am – 5:30pm |
-| Saturday  | By appointment  |
-| Sunday    | Closed          |

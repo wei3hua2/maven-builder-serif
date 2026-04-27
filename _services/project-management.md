@@ -4,7 +4,7 @@ date: 2026-01-01
 weight: 4
 ---
 
-Structured coordination across every phase.
+Structured, transparent, and efficient execution across every phase.
 
 ## Overview
 

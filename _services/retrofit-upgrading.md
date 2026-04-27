@@ -8,7 +8,7 @@ Transforming existing spaces with precision and care.
 
 ## Overview
 
-We upgrade and adapt existing buildings to meet new requirements while minimizing disruption.
+We upgrade and adapt existing buildings to meet new requirements and needs while minimizing disruptions.
 
 ## What We Do
 
